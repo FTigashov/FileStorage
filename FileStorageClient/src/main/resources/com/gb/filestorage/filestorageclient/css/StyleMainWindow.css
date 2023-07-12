@@ -1,0 +1,93 @@
+#button_share {
+    -fx-background-image: url("../png/png_share.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_rename {
+    -fx-background-image: url("../png/png_rename.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_delete {
+    -fx-background-image: url("../png/png_delete.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_upload {
+    -fx-background-image: url("../png/png_upload.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_download {
+    -fx-background-image: url("../png/png_download.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: right;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_addLink {
+    -fx-background-image: url("../png/png_link.png");
+    -fx-background-size: 29 29;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#button_newDir {
+    -fx-background-image: url("../png/png_new_folder.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-padding-left: 2;
+    -fx-background-padding-top: 2;
+    -fx-background-padding-down: 2;
+    -fx-background-padding-right: 2;
+}
+
+#terminalDisplay {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#terminalCmndLine {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#button_connect {
+    -fx-background-image: url("../png/png_switch-on-off.png");
+    -fx-background-size: 80 80;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
